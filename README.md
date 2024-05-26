@@ -27,8 +27,7 @@ And, once the script detects it (~10 seconds) it will send the message (another 
 
 ---
 
-# 🎥 Video Demos
-_Soon!_
+# 🎥 [Video Demo](https://photos.app.goo.gl/9Bkg26BzL6EXRNzaA)
 
 ---
 
